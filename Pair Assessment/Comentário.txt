@@ -1,0 +1,3 @@
+Na função pontuacao() em Assembly, movemos a melhor_pontuação par ao endereço rsi e o valor da pontuação calculada da equipa atual ficou guardada no endereço rax.
+Após isso fizemos a comparação entre rax(pontuação atual) e rsi(melhor pontuaçao).
+Caso se verifique que a pontuação atual é maior que a melhor pontuação optamos por fazer um jump para realizar a atualização do valor das variaveis melhor_pontuação e id_melhor_equipa.
