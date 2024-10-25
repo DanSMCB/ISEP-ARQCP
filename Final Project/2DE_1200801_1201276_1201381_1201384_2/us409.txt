@@ -1,0 +1,78 @@
+Container id: 1025637
+X coordinate: 0
+Y coordinate: 0
+Z coordinate: 0
+Length: 6.50m
+Width: 2.00m
+Height: 2.50m
+Refrigerated: Yes
+Outer walls material: steel
+Middle layers material: polystyrene
+Interior walls material: PVC
+Outer walls thickness: 0.05m
+Middle layers thickness: 0.12m
+Interior walls thickness: 0.05m
+Required temperature inside the container: 7.00 ºC
+
+Container id: 7334328
+X coordinate: 1
+Y coordinate: 0
+Z coordinate: 0
+Length: 4.00m
+Width: 3.00m
+Height: 2.00m
+Refrigerated: No
+Outer walls material: iron
+Middle layers material: wood
+Interior walls material: iron
+Outer walls thickness: 2.00m
+Middle layers thickness: 3.00m
+Interior walls thickness: 3.00m
+
+Container id: 6155496
+X coordinate: 2
+Y coordinate: 0
+Z coordinate: 0
+Length: 5.00m
+Width: 2.00m
+Height: 3.00m
+Refrigerated: No
+Outer walls material: iron
+Middle layers material: wood
+Interior walls material: iron
+Outer walls thickness: 4.00m
+Middle layers thickness: 2.00m
+Interior walls thickness: 3.00m
+
+Container id: 3058855
+X coordinate: 0
+Y coordinate: 1
+Z coordinate: 0
+Length: 6.00m
+Width: 1.00m
+Height: 4.00m
+Refrigerated: Yes
+Outer walls material: steel
+Middle layers material: polyurethane
+Interior walls material: PVC
+Outer walls thickness: 0.05m
+Middle layers thickness: 0.10m
+Interior walls thickness: 0.05m
+Required temperature inside the container: -5.00 ºC
+
+Container id: 4269230
+X coordinate: 0
+Y coordinate: 0
+Z coordinate: 2
+Length: 7.00m
+Width: 2.00m
+Height: 3.00m
+Refrigerated: Yes
+Outer walls material: iron
+Middle layers material: wood
+Interior walls material: iron
+Outer walls thickness: 3.00m
+Middle layers thickness: 3.00m
+Interior walls thickness: 3.00m
+Required temperature inside the container: 10.00 ºC
+

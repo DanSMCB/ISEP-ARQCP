@@ -1,0 +1,3 @@
+The current energy generation units are not enough to provide energy to all refrigerated containers.
+Energy needed by the containers: 2149080.00J
+Energy provided by the generation units: 600000.00J
