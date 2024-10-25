@@ -1,0 +1,754 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+#########################################################
+#########################################################
+/media/sf_work/2021/arqcp21222deg11
+#########################################################
+#########################################################
+
+#########################################################
+Git Commits
+    10	Daniel Braga
+     3	Luís Nogueira
+     1	Daniel
+     1	PauloFerreira
+   Git History:                       
+ebc1c7b - Daniel Braga, 11 days ago : exs 1-3 
+#########################################################
+Solved exercises:   
+                    ./modulo2/1200801/ex01
+                    ./modulo2/1200801/ex02
+                    ./modulo2/1200801/ex03
+                    ./modulo2/1200801/ex04
+                    ./modulo2/1200801/ex05
+                    ./modulo2/1200801/ex06
+                    ./modulo2/1200801/ex07
+                    ./modulo2/1200801/ex08
+                    ./modulo2/1200801/ex09
+                    ./modulo2/1200801/ex10
+                    ./modulo2/1200801/ex11
+                    ./modulo2/1200801/ex12
+                    ./modulo2/1200801/ex13
+                    ./modulo2/1200801/ex14
+                    ./modulo2/1200801/ex15
+                    ./modulo2/1200801/ex16
+                    ./modulo2/1200801/ex18
+                    ./modulo2/1200801/ex19
+                    ./modulo2/1200801/ex20
+/media/sf_work/2021/arqcp21222deg11
+=======================================================
+============== ./arqcp21222deg11  ./modulo2/1200801/ex01 =======================
+=======================================================
+Checking main.c ...
+======================================
+========= make ==========
+./Makefile
+gcc -g -Wall -c asm.s -o asm.o
+gcc -g -Wall -c main.c -o main.o
+gcc asm.o main.o -o ex01
+make: Warning: File 'ex01' has modification time 0.74 s in the future
+make: 'ex01' is up to date.
+make: warning:  Clock skew detected.  Your build may be incomplete.
+========= gcc ==========
+========= compiling  ==========
+gcc exit code =0
+========= run ==========
+./modulo2/1200801/ex01 uses stdin
+=======================================================
+============== ./arqcp21222deg11  ./modulo2/1200801/ex02 =======================
+=======================================================
+Checking main.c ...
+======================================
+========= make ==========
+./Makefile
+gcc -g -Wall -c asm.s -o asm.o
+gcc -g -Wall -c main.c -o main.o
+gcc asm.o main.o -o ex02
+make: Warning: File 'ex02' has modification time 0.73 s in the future
+make: 'ex02' is up to date.
+make: warning:  Clock skew detected.  Your build may be incomplete.
+========= gcc ==========
+========= compiling  ==========
+gcc exit code =0
+========= run ==========
+./modulo2/1200801/ex02 uses stdin
+=======================================================
+============== ./arqcp21222deg11  ./modulo2/1200801/ex03 =======================
+=======================================================
+Checking main.c ...
+======================================
+========= make ==========
+./Makefile
+gcc -g -Wall -c asm.s -o asm.o
+gcc -g -Wall -c main.c -o main.o
+gcc asm.o main.o -o ex03
+make: Warning: File 'ex03' has modification time 0.74 s in the future
+make: 'ex03' is up to date.
+make: warning:  Clock skew detected.  Your build may be incomplete.
+========= gcc ==========
+========= compiling  ==========
+gcc exit code =0
+========= run ==========
+./modulo2/1200801/ex03 uses stdin
+=======================================================
+============== ./arqcp21222deg11  ./modulo2/1200801/ex04 =======================
+=======================================================
+Checking main.c ...
+======================================
+========= make ==========
+./Makefile
+gcc -g -Wall -c asm.s -o asm.o
+gcc -g -Wall -c main.c -o main.o
+gcc asm.o main.o -o ex04
+make: Warning: File 'ex04' has modification time 0.74 s in the future
+make: 'ex04' is up to date.
+make: warning:  Clock skew detected.  Your build may be incomplete.
+========= gcc ==========
+========= compiling  ==========
+gcc exit code =0
+========= run ==========
+./modulo2/1200801/ex04 uses stdin
+=======================================================
+============== ./arqcp21222deg11  ./modulo2/1200801/ex05 =======================
+=======================================================
+Checking main.c ...
+======================================
+========= make ==========
+./Makefile
+gcc -g -Wall -c asm.s -o asm.o
+gcc -g -Wall -c main.c -o main.o
+gcc asm.o main.o -o ex05
+make: Warning: File 'ex05' has modification time 0.73 s in the future
+make: 'ex05' is up to date.
+make: warning:  Clock skew detected.  Your build may be incomplete.
+========= gcc ==========
+========= compiling  ==========
+gcc exit code =0
+========= run ==========
+Running ./modulo2/1200801/ex05
+==73105== Memcheck, a memory error detector
+==73105== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==73105== Using Valgrind-3.16.1 and LibVEX; rerun with -h for copyright info
+==73105== Command: ./a.out
+==73105== 
+256
+==73105== 
+==73105== HEAP SUMMARY:
+==73105==     in use at exit: 0 bytes in 0 blocks
+==73105==   total heap usage: 0 allocs, 0 frees, 0 bytes allocated
+==73105== 
+==73105== All heap blocks were freed -- no leaks are possible
+==73105== 
+==73105== For lists of detected and suppressed errors, rerun with: -s
+==73105== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+=======================================================
+============== ./arqcp21222deg11  ./modulo2/1200801/ex06 =======================
+=======================================================
+Checking main.c ...
+======================================
+========= make ==========
+./Makefile
+gcc -g -Wall -c asm.s -o asm.o
+gcc -g -Wall -c main.c -o main.o
+gcc asm.o main.o -o ex06
+make: Warning: File 'ex06' has modification time 0.74 s in the future
+make: 'ex06' is up to date.
+make: warning:  Clock skew detected.  Your build may be incomplete.
+========= gcc ==========
+========= compiling  ==========
+gcc exit code =0
+========= run ==========
+Running ./modulo2/1200801/ex06
+==73128== Memcheck, a memory error detector
+==73128== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==73128== Using Valgrind-3.16.1 and LibVEX; rerun with -h for copyright info
+==73128== Command: ./a.out
+==73128== 
+257
+==73128== 
+==73128== HEAP SUMMARY:
+==73128==     in use at exit: 0 bytes in 0 blocks
+==73128==   total heap usage: 0 allocs, 0 frees, 0 bytes allocated
+==73128== 
+==73128== All heap blocks were freed -- no leaks are possible
+==73128== 
+==73128== For lists of detected and suppressed errors, rerun with: -s
+==73128== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+=======================================================
+============== ./arqcp21222deg11  ./modulo2/1200801/ex07 =======================
+=======================================================
+Checking main.c ...
+======================================
+========= make ==========
+./Makefile
+gcc -g -Wall -c asm.s -o asm.o
+gcc -g -Wall -c main.c -o main.o
+gcc asm.o main.o -o ex07
+make: Warning: File 'ex07' has modification time 0.74 s in the future
+make: 'ex07' is up to date.
+make: warning:  Clock skew detected.  Your build may be incomplete.
+========= gcc ==========
+========= compiling  ==========
+gcc exit code =0
+========= run ==========
+Running ./modulo2/1200801/ex07
+==73153== Memcheck, a memory error detector
+==73153== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==73153== Using Valgrind-3.16.1 and LibVEX; rerun with -h for copyright info
+==73153== Command: ./a.out
+==73153== 
+257
+==73153== 
+==73153== HEAP SUMMARY:
+==73153==     in use at exit: 0 bytes in 0 blocks
+==73153==   total heap usage: 0 allocs, 0 frees, 0 bytes allocated
+==73153== 
+==73153== All heap blocks were freed -- no leaks are possible
+==73153== 
+==73153== For lists of detected and suppressed errors, rerun with: -s
+==73153== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+=======================================================
+============== ./arqcp21222deg11  ./modulo2/1200801/ex08 =======================
+=======================================================
+Checking main.c ...
+======================================
+========= make ==========
+./Makefile
+gcc -g -Wall -c asm.s -o asm.o
+gcc -g -Wall -c main.c -o main.o
+gcc asm.o main.o -o ex08
+make: Warning: File 'ex08' has modification time 0.73 s in the future
+make: 'ex08' is up to date.
+make: warning:  Clock skew detected.  Your build may be incomplete.
+========= gcc ==========
+========= compiling  ==========
+gcc exit code =0
+========= run ==========
+Running ./modulo2/1200801/ex08
+==73178== Memcheck, a memory error detector
+==73178== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==73178== Using Valgrind-3.16.1 and LibVEX; rerun with -h for copyright info
+==73178== Command: ./a.out
+==73178== 
+257
+==73178== 
+==73178== HEAP SUMMARY:
+==73178==     in use at exit: 0 bytes in 0 blocks
+==73178==   total heap usage: 0 allocs, 0 frees, 0 bytes allocated
+==73178== 
+==73178== All heap blocks were freed -- no leaks are possible
+==73178== 
+==73178== For lists of detected and suppressed errors, rerun with: -s
+==73178== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+=======================================================
+============== ./arqcp21222deg11  ./modulo2/1200801/ex09 =======================
+=======================================================
+Checking main.c ...
+======================================
+========= make ==========
+./Makefile
+gcc -g -Wall -c asm.s -o asm.o
+gcc -g -Wall -c main.c -o main.o
+main.c: In function ‘main’:
+main.c:10:12: warning: format ‘%hd’ expects argument of type ‘int’, but argument 2 has type ‘long int’ [-Wformat=]
+   10 |  printf("%hd\n",sum_and_subtract());
+      |          ~~^    ~~~~~~~~~~~~~~~~~~
+      |            |    |
+      |            int  long int
+      |          %ld
+gcc asm.o main.o -o ex09
+make: Warning: File 'ex09' has modification time 0.73 s in the future
+make: 'ex09' is up to date.
+make: warning:  Clock skew detected.  Your build may be incomplete.
+========= gcc ==========
+========= compiling  ==========
+main.c: In function ‘main’:
+main.c:10:12: warning: format ‘%hd’ expects argument of type ‘int’, but argument 2 has type ‘long int’ [-Wformat=]
+   10 |  printf("%hd\n",sum_and_subtract());
+      |          ~~^    ~~~~~~~~~~~~~~~~~~
+      |            |    |
+      |            int  long int
+      |          %ld
+gcc exit code =0
+========= run ==========
+Running ./modulo2/1200801/ex09
+==73203== Memcheck, a memory error detector
+==73203== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==73203== Using Valgrind-3.16.1 and LibVEX; rerun with -h for copyright info
+==73203== Command: ./a.out
+==73203== 
+-27
+==73203== 
+==73203== HEAP SUMMARY:
+==73203==     in use at exit: 0 bytes in 0 blocks
+==73203==   total heap usage: 0 allocs, 0 frees, 0 bytes allocated
+==73203== 
+==73203== All heap blocks were freed -- no leaks are possible
+==73203== 
+==73203== For lists of detected and suppressed errors, rerun with: -s
+==73203== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+=======================================================
+============== ./arqcp21222deg11  ./modulo2/1200801/ex10 =======================
+=======================================================
+Checking main.c ...
+======================================
+========= make ==========
+./Makefile
+gcc -g -Wall -c asm.s -o asm.o
+gcc -g -Wall -c main.c -o main.o
+main.c: In function ‘main’:
+main.c:8:12: warning: format ‘%hd’ expects argument of type ‘int’, but argument 2 has type ‘long int’ [-Wformat=]
+    8 |  printf("%hd\n",sum2ints());
+      |          ~~^    ~~~~~~~~~~
+      |            |    |
+      |            int  long int
+      |          %ld
+gcc asm.o main.o -o ex10
+make: Warning: File 'ex10' has modification time 0.73 s in the future
+make: 'ex10' is up to date.
+make: warning:  Clock skew detected.  Your build may be incomplete.
+========= gcc ==========
+========= compiling  ==========
+main.c: In function ‘main’:
+main.c:8:12: warning: format ‘%hd’ expects argument of type ‘int’, but argument 2 has type ‘long int’ [-Wformat=]
+    8 |  printf("%hd\n",sum2ints());
+      |          ~~^    ~~~~~~~~~~
+      |            |    |
+      |            int  long int
+      |          %ld
+gcc exit code =0
+========= run ==========
+Running ./modulo2/1200801/ex10
+==73228== Memcheck, a memory error detector
+==73228== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==73228== Using Valgrind-3.16.1 and LibVEX; rerun with -h for copyright info
+==73228== Command: ./a.out
+==73228== 
+23
+==73228== 
+==73228== HEAP SUMMARY:
+==73228==     in use at exit: 0 bytes in 0 blocks
+==73228==   total heap usage: 0 allocs, 0 frees, 0 bytes allocated
+==73228== 
+==73228== All heap blocks were freed -- no leaks are possible
+==73228== 
+==73228== For lists of detected and suppressed errors, rerun with: -s
+==73228== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+=======================================================
+============== ./arqcp21222deg11  ./modulo2/1200801/ex11 =======================
+=======================================================
+Checking main.c ...
+======================================
+========= make ==========
+./Makefile
+gcc -g -Wall -c asm.s -o asm.o
+gcc -g -Wall -c main.c -o main.o
+gcc asm.o main.o -o ex11
+make: Warning: File 'ex11' has modification time 0.73 s in the future
+make: 'ex11' is up to date.
+make: warning:  Clock skew detected.  Your build may be incomplete.
+========= gcc ==========
+========= compiling  ==========
+gcc exit code =0
+========= run ==========
+Running ./modulo2/1200801/ex11
+==73253== Memcheck, a memory error detector
+==73253== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==73253== Using Valgrind-3.16.1 and LibVEX; rerun with -h for copyright info
+==73253== Command: ./a.out
+==73253== 
+1
+==73253== 
+==73253== HEAP SUMMARY:
+==73253==     in use at exit: 0 bytes in 0 blocks
+==73253==   total heap usage: 0 allocs, 0 frees, 0 bytes allocated
+==73253== 
+==73253== All heap blocks were freed -- no leaks are possible
+==73253== 
+==73253== For lists of detected and suppressed errors, rerun with: -s
+==73253== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+=======================================================
+============== ./arqcp21222deg11  ./modulo2/1200801/ex12 =======================
+=======================================================
+Checking main.c ...
+======================================
+========= make ==========
+./Makefile
+gcc -g -Wall -c asm.s -o asm.o
+gcc -g -Wall -c main.c -o main.o
+gcc asm.o main.o -o ex12
+make: Warning: File 'ex12' has modification time 0.73 s in the future
+make: 'ex12' is up to date.
+make: warning:  Clock skew detected.  Your build may be incomplete.
+========= gcc ==========
+========= compiling  ==========
+gcc exit code =0
+========= run ==========
+Running ./modulo2/1200801/ex12
+==73278== Memcheck, a memory error detector
+==73278== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==73278== Using Valgrind-3.16.1 and LibVEX; rerun with -h for copyright info
+==73278== Command: ./a.out
+==73278== 
+1
+==73278== 
+==73278== HEAP SUMMARY:
+==73278==     in use at exit: 0 bytes in 0 blocks
+==73278==   total heap usage: 0 allocs, 0 frees, 0 bytes allocated
+==73278== 
+==73278== All heap blocks were freed -- no leaks are possible
+==73278== 
+==73278== For lists of detected and suppressed errors, rerun with: -s
+==73278== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+=======================================================
+============== ./arqcp21222deg11  ./modulo2/1200801/ex13 =======================
+=======================================================
+Checking main.c ...
+======================================
+========= make ==========
+./Makefile
+gcc -g -Wall -c asm.s -o asm.o
+gcc -g -Wall -c main.c -o main.o
+gcc asm.o main.o -o ex13
+make: Warning: File 'ex13' has modification time 0.73 s in the future
+make: 'ex13' is up to date.
+make: warning:  Clock skew detected.  Your build may be incomplete.
+========= gcc ==========
+========= compiling  ==========
+gcc exit code =0
+========= run ==========
+Running ./modulo2/1200801/ex13
+==73301== Memcheck, a memory error detector
+==73301== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==73301== Using Valgrind-3.16.1 and LibVEX; rerun with -h for copyright info
+==73301== Command: ./a.out
+==73301== 
+12
+==73301== 
+==73301== HEAP SUMMARY:
+==73301==     in use at exit: 0 bytes in 0 blocks
+==73301==   total heap usage: 0 allocs, 0 frees, 0 bytes allocated
+==73301== 
+==73301== All heap blocks were freed -- no leaks are possible
+==73301== 
+==73301== For lists of detected and suppressed errors, rerun with: -s
+==73301== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+=======================================================
+============== ./arqcp21222deg11  ./modulo2/1200801/ex14 =======================
+=======================================================
+Checking main.c ...
+======================================
+========= make ==========
+./Makefile
+gcc -g -Wall -c asm.s -o asm.o
+gcc -g -Wall -c main.c -o main.o
+gcc asm.o main.o -o ex14
+make: Warning: File 'ex14' has modification time 0.73 s in the future
+make: 'ex14' is up to date.
+make: warning:  Clock skew detected.  Your build may be incomplete.
+========= gcc ==========
+========= compiling  ==========
+gcc exit code =0
+========= run ==========
+Running ./modulo2/1200801/ex14
+==73326== Memcheck, a memory error detector
+==73326== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==73326== Using Valgrind-3.16.1 and LibVEX; rerun with -h for copyright info
+==73326== Command: ./a.out
+==73326== 
+12
+==73326== 
+==73326== HEAP SUMMARY:
+==73326==     in use at exit: 0 bytes in 0 blocks
+==73326==   total heap usage: 0 allocs, 0 frees, 0 bytes allocated
+==73326== 
+==73326== All heap blocks were freed -- no leaks are possible
+==73326== 
+==73326== For lists of detected and suppressed errors, rerun with: -s
+==73326== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+=======================================================
+============== ./arqcp21222deg11  ./modulo2/1200801/ex15 =======================
+=======================================================
+Checking main.c ...
+======================================
+========= make ==========
+./Makefile
+gcc -g -Wall -c asm.s -o asm.o
+gcc -g -Wall -c main.c -o main.o
+gcc asm.o main.o -o ex15
+make: Warning: File 'ex15' has modification time 0.73 s in the future
+make: 'ex15' is up to date.
+make: warning:  Clock skew detected.  Your build may be incomplete.
+========= gcc ==========
+========= compiling  ==========
+gcc exit code =0
+========= run ==========
+Running ./modulo2/1200801/ex15
+==73351== Memcheck, a memory error detector
+==73351== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==73351== Using Valgrind-3.16.1 and LibVEX; rerun with -h for copyright info
+==73351== Command: ./a.out
+==73351== 
+5
+==73351== 
+==73351== HEAP SUMMARY:
+==73351==     in use at exit: 0 bytes in 0 blocks
+==73351==   total heap usage: 0 allocs, 0 frees, 0 bytes allocated
+==73351== 
+==73351== All heap blocks were freed -- no leaks are possible
+==73351== 
+==73351== For lists of detected and suppressed errors, rerun with: -s
+==73351== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+=======================================================
+============== ./arqcp21222deg11  ./modulo2/1200801/ex16 =======================
+=======================================================
+Checking main.c ...
+======================================
+========= make ==========
+./Makefile
+gcc -g -Wall -c asm.s -o asm.o
+gcc -g -Wall -c main.c -o main.o
+gcc asm.o main.o -o ex16
+make: Warning: File 'ex16' has modification time 0.73 s in the future
+make: 'ex16' is up to date.
+make: warning:  Clock skew detected.  Your build may be incomplete.
+========= gcc ==========
+========= compiling  ==========
+gcc exit code =0
+========= run ==========
+Running ./modulo2/1200801/ex16
+==73376== Memcheck, a memory error detector
+==73376== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==73376== Using Valgrind-3.16.1 and LibVEX; rerun with -h for copyright info
+==73376== Command: ./a.out
+==73376== 
+13
+==73376== 
+==73376== HEAP SUMMARY:
+==73376==     in use at exit: 0 bytes in 0 blocks
+==73376==   total heap usage: 0 allocs, 0 frees, 0 bytes allocated
+==73376== 
+==73376== All heap blocks were freed -- no leaks are possible
+==73376== 
+==73376== For lists of detected and suppressed errors, rerun with: -s
+==73376== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+=======================================================
+============== ./arqcp21222deg11  ./modulo2/1200801/ex18 =======================
+=======================================================
+Checking main.c ...
+======================================
+========= make ==========
+./Makefile
+gcc -g -Wall -c asm.s -o asm.o
+gcc -g -Wall -c main.c -o main.o
+gcc asm.o main.o -o ex18
+make: Warning: File 'ex18' has modification time 0.73 s in the future
+make: 'ex18' is up to date.
+make: warning:  Clock skew detected.  Your build may be incomplete.
+========= gcc ==========
+========= compiling  ==========
+gcc exit code =0
+========= run ==========
+Running ./modulo2/1200801/ex18
+==73401== Memcheck, a memory error detector
+==73401== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==73401== Using Valgrind-3.16.1 and LibVEX; rerun with -h for copyright info
+==73401== Command: ./a.out
+==73401== 
+28
+==73401== 
+==73401== HEAP SUMMARY:
+==73401==     in use at exit: 0 bytes in 0 blocks
+==73401==   total heap usage: 0 allocs, 0 frees, 0 bytes allocated
+==73401== 
+==73401== All heap blocks were freed -- no leaks are possible
+==73401== 
+==73401== For lists of detected and suppressed errors, rerun with: -s
+==73401== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+=======================================================
+============== ./arqcp21222deg11  ./modulo2/1200801/ex19 =======================
+=======================================================
+Checking main.c ...
+======================================
+========= make ==========
+./Makefile
+gcc -g -Wall -c asm.s -o asm.o
+gcc -g -Wall -c main.c -o main.o
+gcc asm.o main.o -o ex19
+make: Warning: File 'ex19' has modification time 0.73 s in the future
+make: 'ex19' is up to date.
+make: warning:  Clock skew detected.  Your build may be incomplete.
+========= gcc ==========
+========= compiling  ==========
+gcc exit code =0
+========= run ==========
+Running ./modulo2/1200801/ex19
+==73426== Memcheck, a memory error detector
+==73426== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==73426== Using Valgrind-3.16.1 and LibVEX; rerun with -h for copyright info
+==73426== Command: ./a.out
+==73426== 
+540
+==73426== 
+==73426== HEAP SUMMARY:
+==73426==     in use at exit: 0 bytes in 0 blocks
+==73426==   total heap usage: 0 allocs, 0 frees, 0 bytes allocated
+==73426== 
+==73426== All heap blocks were freed -- no leaks are possible
+==73426== 
+==73426== For lists of detected and suppressed errors, rerun with: -s
+==73426== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+=======================================================
+============== ./arqcp21222deg11  ./modulo2/1200801/ex20 =======================
+=======================================================
+Checking main.c ...
+======================================
+========= make ==========
+./Makefile
+gcc -g -Wall -c asm.s -o asm.o
+gcc -g -Wall -c main.c -o main.o
+gcc asm.o main.o -o ex20
+make: Warning: File 'ex20' has modification time 0.73 s in the future
+make: 'ex20' is up to date.
+make: warning:  Clock skew detected.  Your build may be incomplete.
+========= gcc ==========
+========= compiling  ==========
+gcc exit code =0
+========= run ==========
+Running ./modulo2/1200801/ex20
+==73451== Memcheck, a memory error detector
+==73451== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==73451== Using Valgrind-3.16.1 and LibVEX; rerun with -h for copyright info
+==73451== Command: ./a.out
+==73451== 
+1
+==73451== 
+==73451== HEAP SUMMARY:
+==73451==     in use at exit: 0 bytes in 0 blocks
+==73451==   total heap usage: 0 allocs, 0 frees, 0 bytes allocated
+==73451== 
+==73451== All heap blocks were freed -- no leaks are possible
+==73451== 
+==73451== For lists of detected and suppressed errors, rerun with: -s
+==73451== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+Finished program compiling
+find: ‘./modulo2’: No such file or directory
+find: ‘./modulo2’: No such file or directory
+#########################################################
+#########################################################
+ Unit tests on ./arqcp21222deg11 
+ Unit tests on arqcp21222deg11: 
+#########################################################
+Will test :   
+./utests/modulo2/ex02
+./utests/modulo2/ex03
+./utests/modulo2/ex04
+./utests/modulo2/ex05
+./utests/modulo2/ex06
+./utests/modulo2/ex07
+./utests/modulo2/ex08
+./utests/modulo2/ex09
+./utests/modulo2/ex10
+./utests/modulo2/ex11
+./utests/modulo2/ex12
+./utests/modulo2/ex13
+./utests/modulo2/ex14
+./utests/modulo2/ex15
+./utests/modulo2/ex16
+./utests/modulo2/ex19
+./utests/modulo2/ex20
+./utests/modulo2/ex21
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo2/ex02 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo2/ex02’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo2/ex02    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo2/ex03 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo2/ex03’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo2/ex03    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo2/ex04 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo2/ex04’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo2/ex04    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo2/ex05 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo2/ex05’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo2/ex05    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo2/ex06 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo2/ex06’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo2/ex06    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo2/ex07 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo2/ex07’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo2/ex07    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo2/ex08 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo2/ex08’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo2/ex08    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo2/ex09 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo2/ex09’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo2/ex09    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo2/ex10 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo2/ex10’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo2/ex10    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo2/ex11 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo2/ex11’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo2/ex11    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo2/ex12 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo2/ex12’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo2/ex12    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo2/ex13 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo2/ex13’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo2/ex13    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo2/ex14 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo2/ex14’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo2/ex14    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo2/ex15 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo2/ex15’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo2/ex15    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo2/ex16 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo2/ex16’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo2/ex16    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo2/ex19 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo2/ex19’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo2/ex19    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo2/ex20 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo2/ex20’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo2/ex20    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo2/ex21 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo2/ex21’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo2/ex21    .  Stop.
+#########################################################
+Finished Unit Tests
+Number of Passed tests:  0
+#########################################################
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

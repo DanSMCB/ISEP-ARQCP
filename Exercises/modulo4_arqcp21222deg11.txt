@@ -1,0 +1,403 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+#########################################################
+#########################################################
+/media/sf_work/2021/arqcp21222deg11
+#########################################################
+#########################################################
+
+#########################################################
+Git Commits
+    13	Daniel Braga
+     4	PauloFerreira
+     3	Luís Nogueira
+     1	Daniel
+   Git History:                       
+2ea7346 - Daniel Braga, 18 hours ago : ex14 correction
+85d3a57 - Daniel Braga, 19 hours ago : exs 1-4 & 6
+a535f91 - Daniel Braga, 19 hours ago : exs 5 & 4-20(even numbers) 
+#########################################################
+Solved exercises:   
+                    ./modulo4/1200801/ex01
+                    ./modulo4/1200801/ex02
+                    ./modulo4/1200801/ex03
+                    ./modulo4/1200801/ex04
+                    ./modulo4/1200801/ex06
+/media/sf_work/2021/arqcp21222deg11
+=======================================================
+============== ./arqcp21222deg11  ./modulo4/1200801/ex01 =======================
+=======================================================
+Checking main.c ...
+======================================
+========= make ==========
+./Makefile
+gcc -g -Wall -c asm.s -o asm.o
+gcc -g -Wall -c main.c -o main.o
+gcc asm.o main.o -o ex01
+make: Warning: File 'ex01' has modification time 1.4 s in the future
+make: 'ex01' is up to date.
+make: warning:  Clock skew detected.  Your build may be incomplete.
+========= gcc ==========
+========= compiling  ==========
+gcc exit code =0
+========= run ==========
+Running ./modulo4/1200801/ex01
+==64860== Memcheck, a memory error detector
+==64860== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==64860== Using Valgrind-3.16.1 and LibVEX; rerun with -h for copyright info
+==64860== Command: ./a.out
+==64860== 
+27
+==64860== 
+==64860== HEAP SUMMARY:
+==64860==     in use at exit: 0 bytes in 0 blocks
+==64860==   total heap usage: 0 allocs, 0 frees, 0 bytes allocated
+==64860== 
+==64860== All heap blocks were freed -- no leaks are possible
+==64860== 
+==64860== For lists of detected and suppressed errors, rerun with: -s
+==64860== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+=======================================================
+============== ./arqcp21222deg11  ./modulo4/1200801/ex02 =======================
+=======================================================
+Checking main.c ...
+======================================
+========= make ==========
+./Makefile
+gcc -g -Wall -c asm.s -o asm.o
+gcc -g -Wall -c main.c -o main.o
+gcc asm.o main.o -o ex02
+make: Warning: File 'ex02' has modification time 1.4 s in the future
+make: 'ex02' is up to date.
+make: warning:  Clock skew detected.  Your build may be incomplete.
+========= gcc ==========
+========= compiling  ==========
+gcc exit code =0
+========= run ==========
+Running ./modulo4/1200801/ex02
+==64883== Memcheck, a memory error detector
+==64883== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==64883== Using Valgrind-3.16.1 and LibVEX; rerun with -h for copyright info
+==64883== Command: ./a.out
+==64883== 
+15
+==64883== 
+==64883== HEAP SUMMARY:
+==64883==     in use at exit: 0 bytes in 0 blocks
+==64883==   total heap usage: 0 allocs, 0 frees, 0 bytes allocated
+==64883== 
+==64883== All heap blocks were freed -- no leaks are possible
+==64883== 
+==64883== For lists of detected and suppressed errors, rerun with: -s
+==64883== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+=======================================================
+============== ./arqcp21222deg11  ./modulo4/1200801/ex03 =======================
+=======================================================
+Checking main.c ...
+======================================
+========= make ==========
+./Makefile
+gcc -g -Wall -c asm.s -o asm.o
+gcc -g -Wall -c main.c -o main.o
+gcc asm.o main.o -o ex03
+make: Warning: File 'ex03' has modification time 1.4 s in the future
+make: 'ex03' is up to date.
+make: warning:  Clock skew detected.  Your build may be incomplete.
+========= gcc ==========
+========= compiling  ==========
+gcc exit code =0
+========= run ==========
+Running ./modulo4/1200801/ex03
+==64908== Memcheck, a memory error detector
+==64908== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==64908== Using Valgrind-3.16.1 and LibVEX; rerun with -h for copyright info
+==64908== Command: ./a.out
+==64908== 
+greatest: 7
+==64908== 
+==64908== HEAP SUMMARY:
+==64908==     in use at exit: 0 bytes in 0 blocks
+==64908==   total heap usage: 0 allocs, 0 frees, 0 bytes allocated
+==64908== 
+==64908== All heap blocks were freed -- no leaks are possible
+==64908== 
+==64908== For lists of detected and suppressed errors, rerun with: -s
+==64908== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+=======================================================
+============== ./arqcp21222deg11  ./modulo4/1200801/ex04 =======================
+=======================================================
+Checking main.c ...
+======================================
+========= make ==========
+./Makefile
+gcc -g -Wall -c asm.s -o asm.o
+gcc -g -Wall -c main.c -o main.o
+gcc asm.o main.o -o ex04
+make: Warning: File 'ex04' has modification time 1.4 s in the future
+make: 'ex04' is up to date.
+make: warning:  Clock skew detected.  Your build may be incomplete.
+========= gcc ==========
+========= compiling  ==========
+gcc exit code =0
+========= run ==========
+Running ./modulo4/1200801/ex04
+==64944== Memcheck, a memory error detector
+==64944== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==64944== Using Valgrind-3.16.1 and LibVEX; rerun with -h for copyright info
+==64944== Command: ./a.out
+==64944== 
+sum: 3
+smaller: 1
+==64944== 
+==64944== HEAP SUMMARY:
+==64944==     in use at exit: 0 bytes in 0 blocks
+==64944==   total heap usage: 0 allocs, 0 frees, 0 bytes allocated
+==64944== 
+==64944== All heap blocks were freed -- no leaks are possible
+==64944== 
+==64944== For lists of detected and suppressed errors, rerun with: -s
+==64944== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+=======================================================
+============== ./arqcp21222deg11  ./modulo4/1200801/ex06 =======================
+=======================================================
+Checking main.c ...
+======================================
+========= make ==========
+./Makefile
+gcc -g -Wall -c asm.s -o asm.o
+gcc -g -Wall -c main.c -o main.o
+gcc asm.o main.o -o ex06
+make: Warning: File 'ex06' has modification time 1.4 s in the future
+make: 'ex06' is up to date.
+make: warning:  Clock skew detected.  Your build may be incomplete.
+========= gcc ==========
+========= compiling  ==========
+gcc exit code =0
+========= run ==========
+Running ./modulo4/1200801/ex06
+==64969== Memcheck, a memory error detector
+==64969== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==64969== Using Valgrind-3.16.1 and LibVEX; rerun with -h for copyright info
+==64969== Command: ./a.out
+==64969== 
+The strings are equal
+==64969== 
+==64969== HEAP SUMMARY:
+==64969==     in use at exit: 0 bytes in 0 blocks
+==64969==   total heap usage: 0 allocs, 0 frees, 0 bytes allocated
+==64969== 
+==64969== All heap blocks were freed -- no leaks are possible
+==64969== 
+==64969== For lists of detected and suppressed errors, rerun with: -s
+==64969== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
+Finished program compiling
+find: ‘./modulo4’: No such file or directory
+find: ‘./modulo4’: No such file or directory
+#########################################################
+#########################################################
+ Unit tests on ./arqcp21222deg11 
+ Unit tests on arqcp21222deg11: 
+#########################################################
+Will test :   
+./utests/modulo4/ex01
+./utests/modulo4/ex02
+./utests/modulo4/ex03
+./utests/modulo4/ex04
+./utests/modulo4/ex05
+./utests/modulo4/ex06
+./utests/modulo4/ex07
+./utests/modulo4/ex08
+./utests/modulo4/ex09
+./utests/modulo4/ex10
+./utests/modulo4/ex11
+./utests/modulo4/ex12a
+./utests/modulo4/ex12b
+./utests/modulo4/ex12c
+./utests/modulo4/ex13
+./utests/modulo4/ex14a
+./utests/modulo4/ex14b
+./utests/modulo4/ex14c
+./utests/modulo4/ex15a
+./utests/modulo4/ex15b
+./utests/modulo4/ex15c
+./utests/modulo4/ex16a
+./utests/modulo4/ex16b
+./utests/modulo4/ex16c
+./utests/modulo4/ex17a
+./utests/modulo4/ex17b
+./utests/modulo4/ex18a
+./utests/modulo4/ex18b
+./utests/modulo4/ex18c
+./utests/modulo4/ex19a
+./utests/modulo4/ex19b
+./utests/modulo4/ex20a
+./utests/modulo4/ex20b
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo4/ex01 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo4/ex01’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo4/ex01    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo4/ex02 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo4/ex02’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo4/ex02    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo4/ex03 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo4/ex03’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo4/ex03    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo4/ex04 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo4/ex04’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo4/ex04    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo4/ex05 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo4/ex05’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo4/ex05    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo4/ex06 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo4/ex06’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo4/ex06    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo4/ex07 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo4/ex07’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo4/ex07    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo4/ex08 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo4/ex08’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo4/ex08    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo4/ex09 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo4/ex09’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo4/ex09    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo4/ex10 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo4/ex10’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo4/ex10    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo4/ex11 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo4/ex11’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo4/ex11    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo4/ex12a ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo4/ex12a’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo4/ex12a    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo4/ex12b ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo4/ex12b’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo4/ex12b    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo4/ex12c ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo4/ex12c’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo4/ex12c    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo4/ex13 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo4/ex13’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo4/ex13    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo4/ex14a ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo4/ex14a’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo4/ex14a    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo4/ex14b ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo4/ex14b’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo4/ex14b    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo4/ex14c ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo4/ex14c’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo4/ex14c    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo4/ex15a ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo4/ex15a’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo4/ex15a    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo4/ex15b ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo4/ex15b’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo4/ex15b    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo4/ex15c ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo4/ex15c’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo4/ex15c    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo4/ex16a ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo4/ex16a’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo4/ex16a    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo4/ex16b ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo4/ex16b’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo4/ex16b    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo4/ex16c ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo4/ex16c’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo4/ex16c    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo4/ex17a ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo4/ex17a’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo4/ex17a    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo4/ex17b ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo4/ex17b’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo4/ex17b    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo4/ex18a ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo4/ex18a’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo4/ex18a    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo4/ex18b ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo4/ex18b’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo4/ex18b    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo4/ex18c ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo4/ex18c’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo4/ex18c    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo4/ex19a ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo4/ex19a’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo4/ex19a    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo4/ex19b ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo4/ex19b’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo4/ex19b    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo4/ex20a ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo4/ex20a’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo4/ex20a    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo4/ex20b ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo4/ex20b’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo4/ex20b    .  Stop.
+#########################################################
+Finished Unit Tests
+Number of Passed tests:  0
+#########################################################
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%

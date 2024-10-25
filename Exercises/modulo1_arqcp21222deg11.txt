@@ -1,0 +1,132 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+#########################################################
+#########################################################
+/media/sf_work/2021/arqcp21222deg11
+#########################################################
+#########################################################
+
+#########################################################
+Git Commits
+     3	Luís Nogueira
+     1	Daniel
+   Git History:                       
+ 
+#########################################################
+Solved exercises:   
+/media/sf_work/2021/arqcp21222deg11
+Finished program compiling
+find: ‘./modulo1’: No such file or directory
+find: ‘./modulo1’: No such file or directory
+#########################################################
+#########################################################
+ Unit tests on ./arqcp21222deg11 
+ Unit tests on arqcp21222deg11: 
+#########################################################
+Will test :   
+./utests/modulo1/ex02
+./utests/modulo1/ex03
+./utests/modulo1/ex04
+./utests/modulo1/ex05
+./utests/modulo1/ex06
+./utests/modulo1/ex07
+./utests/modulo1/ex08
+./utests/modulo1/ex09
+./utests/modulo1/ex10
+./utests/modulo1/ex11
+./utests/modulo1/ex12
+./utests/modulo1/ex13
+./utests/modulo1/ex14
+./utests/modulo1/ex16
+./utests/modulo1/ex17
+./utests/modulo1/ex18
+./utests/modulo1/ex19
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo1/ex02 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo1/ex02’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo1/ex02    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo1/ex03 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo1/ex03’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo1/ex03    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo1/ex04 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo1/ex04’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo1/ex04    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo1/ex05 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo1/ex05’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo1/ex05    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo1/ex06 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo1/ex06’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo1/ex06    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo1/ex07 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo1/ex07’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo1/ex07    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo1/ex08 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo1/ex08’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo1/ex08    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo1/ex09 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo1/ex09’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo1/ex09    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo1/ex10 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo1/ex10’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo1/ex10    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo1/ex11 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo1/ex11’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo1/ex11    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo1/ex12 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo1/ex12’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo1/ex12    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo1/ex13 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo1/ex13’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo1/ex13    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo1/ex14 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo1/ex14’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo1/ex14    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo1/ex16 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo1/ex16’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo1/ex16    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo1/ex17 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo1/ex17’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo1/ex17    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo1/ex18 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo1/ex18’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo1/ex18    .  Stop.
+=======================================================
+===== ./arqcp21222deg11  ./utests/modulo1/ex19 ====
+=======================================================
+find: ‘/media/sf_work/2021/arqcp21222deg11/modulo1/ex19’: No such file or directory
+Makefile:28: *** Could not find source files in /media/sf_work/2021/arqcp21222deg11/modulo1/ex19    .  Stop.
+#########################################################
+Finished Unit Tests
+Number of Passed tests:  0
+#########################################################
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
